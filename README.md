@@ -1,4 +1,4 @@
-# Server
+# Implementación Sistema Inteligente
 [![Python](https://img.shields.io/badge/Python-3.7-blue?logo=python)](https://www.python.org) 
 
 ### Descripción
@@ -15,9 +15,9 @@ El alcance del mismo será la identificación de personas portando armas blancas
 (cuchillos) y armas de fuego (pistolas).
 
 ### Objetivos
-● Desarrollar un modelo que identifique la presencia de una persona que porta
+- Desarrollar un modelo que identifique la presencia de una persona que porta
 un arma
-● Disminuir situaciones de inseguridad.
+- Disminuir situaciones de inseguridad.
 
 ### Topologia
 Para la topología de la red se decidió utilizar una red convolucional, debido
