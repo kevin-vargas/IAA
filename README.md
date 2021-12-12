@@ -16,7 +16,7 @@ El alcance del mismo será la identificación de personas portando armas blancas
 
 ### Objetivos
 - Desarrollar un modelo que identifique la presencia de una persona que porta
-un arma
+un arma.
 - Disminuir situaciones de inseguridad.
 
 ### Topologia
