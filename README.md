@@ -1,7 +1,7 @@
 # Implementación Sistema Inteligente
 [![Python](https://img.shields.io/badge/Python-3.7-blue?logo=python)](https://www.python.org) 
 
-### Descripción
+### Descripción 
 La problemática surge de las situaciones que pueden suceder dentro de un
 establecimiento, donde una persona porta algún arma atentando contra la integridad
 de las personas presentes. La cual no es reportada de forma inmediata, ya sea por
